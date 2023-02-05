@@ -9,7 +9,7 @@ Aluramid é um projeto que faz parte do curso: JavaScript para Web: Crie página
 
 Nesse projeto, foi ensinado a associar o javascript com o HTML através do DOM e implemantar funções com Javascript
 
-## Layout do peojeto. 
+## Layout do projeto. 
 
 ![image](https://user-images.githubusercontent.com/112595912/216849637-be076f2d-667e-47bb-9e26-39912c026602.png)
 
