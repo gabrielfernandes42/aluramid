@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-https://iridescent-squirrel-43087e.netlify.app/
+Acesse o projeto:: https://iridescent-squirrel-43087e.netlify.app/
 
 Aluramid é um projeto que faz parte do curso: JavaScript para Web: Crie páginas dinâmicas.
 
